@@ -1,3 +1,4 @@
+//to jest wersja by nika-j
 //LOSOWA MATRYCA
 
 int dim = 20; boolean [ ] [ ] cells = new boolean[dim][dim];

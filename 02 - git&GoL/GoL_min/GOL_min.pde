@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //to moja wersja
+=======
+// to jest wersja by argian
+>>>>>>> origin/master
 
 //LOSOWA MATRYCA
 
